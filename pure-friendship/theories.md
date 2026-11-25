@@ -17,56 +17,58 @@
 
 | # | 理論／研究 | 作者 | 年份 | 主要站方 |
 |---|---|---|---|---|
-| A1 | 異性友誼的吸引：負擔或好處 ✅ | Bleske-Rechek 等 | 2012 | 反（也可正用） |
-| A2 | 男女能不能只是朋友 | Bleske & Buss | 2000 | 反 |
-| A3 | 異性友誼中的四種吸引 ✅ | Reeder | 2000 | **正** |
-| A4 | 保持柏拉圖關係的動機 ✅ | Messman, Canary & Hause | 2000 | **正** |
-| A5 | 四種戀愛意圖類型 ✅ | Guerrero & Chavez | 2005 | **正** |
-| A6 | 「只是朋友」中的性行為 ✅ | Afifi & Faulkner | 2000 | 反 |
-| A7 | 異性友誼中的性吸引挑戰 ✅ | Halatsis & Christakis | 2009 | 兩用 |
-| A8 | 異性友誼的四大挑戰 | O'Meara | 1989 | 兩用 |
-| A9 | 異性戀女性與同志男性的友誼 | Russell 等 | 2013 | **正** |
-| B1 | 愛情三角理論 | Sternberg | 1986 | **正** |
-| B2 | 喜歡與愛的量表 | Rubin | 1970 | **正** |
-| B3 | 成人依附與依附轉移 | Hazan & Shaver／Fraley & Davis | 1987／1997 | **正** |
-| B4 | 情緒二因論／錯誤歸因 | Schachter & Singer／Dutton & Aron | 1962／1974 | 兩用 |
-| B5 | 單純曝光效應／接近性 | Zajonc／Festinger 等 | 1968／1950 | 反 |
-| B6 | 自我知覺理論 | Bem | 1967 | **正** |
-| B7 | 認知失調 | Festinger | 1957 | 反 |
-| B8 | 社會交換／投資模型 | Thibaut & Kelley／Rusbult | 1959／1980 | 兩用 |
-| B9 | 社會滲透理論、36 問 | Altman & Taylor／Aron 等 | 1973／1997 | 反 |
-| B10 | 精神分析：目標受抑制的愛 | Freud | 1921 | 反 |
-| C1 | 性策略理論、親代投資 | Buss & Schmitt／Trivers | 1993／1972 | 反 |
-| C2 | 錯誤管理理論 | Haselton & Buss | 2000 | 兩用 |
-| C3 | 愛的三個腦系統 | Helen Fisher | 1998 | **正** |
-| C4 | 魏斯特馬克效應（含台灣童養媳研究） | Westermarck／Wolf | 1891／1995 | **正** |
-| C5 | 無性戀盛行率 | Bogaert | 2004 | **正** |
-| D1 | 純粹關係 | Giddens | 1992 | **正** |
-| D2 | 湯瑪斯定理 | W. I. Thomas & D. S. Thomas | 1928 | **正** |
-| D3 | 擬劇論 | Goffman | 1959 | 兩用 |
-| D4 | 性腳本理論 | Gagnon & Simon | 1973 | **正** |
-| D5 | 社會角色理論 | Eagly | 1987 | **正** |
-| D6 | 同質性 | McPherson 等 | 2001 | 反 |
-| D7 | 鄉土中國：男女有別 | 費孝通 | 1947 | 兩用 |
-| D8 | 男女授受不親／權 | 孟子 | 戰國 | **正** |
-| E1 | 三種友誼 | Aristotle | 約 350 BCE | **正** |
-| E2 | 柏拉圖式愛情 | Plato／Ficino | 約 385 BCE／1469 | **正** |
-| E3 | 四種愛 | C. S. Lewis | 1960 | 兩用 |
-| E4 | 論友誼 | Montaigne | 1580 | 反（可被正方打） |
-| E5 | 他心問題 | Mill | 1865 | 反 |
-| E6 | 甲蟲盒子／私有語言論證 | Wittgenstein | 1953 | **正** |
-| E7 | 邏輯行為主義 | Ryle | 1949 | **正** |
-| E8 | 自然主義謬誤／實然與應然 | Hume／Moore | 1739／1903 | **正** |
-| F1 | 可否證性（黑天鵝） | Popper | 1934 | **正** |
-| F2 | 操作型定義 | Bridgman | 1927 | **正** |
-| F3 | 連鎖悖論、模糊邏輯 | Eubulides／Zadeh | 4 世紀 BCE／1965 | **正** |
-| F4 | 言語行為理論 | Austin | 1962 | **正** |
-| G1 | 資訊不對稱 | Akerlof | 1970 | 反 |
-| G2 | 訊號理論 | Spence | 1973 | 反 |
+| [A1](#a1) | [異性友誼的吸引：負擔或好處 ✅](#a1) | Bleske-Rechek 等 | 2012 | 反（也可正用） |
+| [A2](#a2) | [男女能不能只是朋友](#a2) | Bleske & Buss | 2000 | 反 |
+| [A3](#a3) | [異性友誼中的四種吸引 ✅](#a3) | Reeder | 2000 | **正** |
+| [A4](#a4) | [保持柏拉圖關係的動機 ✅](#a4) | Messman, Canary & Hause | 2000 | **正** |
+| [A5](#a5) | [四種戀愛意圖類型 ✅](#a5) | Guerrero & Chavez | 2005 | **正** |
+| [A6](#a6) | [「只是朋友」中的性行為 ✅](#a6) | Afifi & Faulkner | 2000 | 反 |
+| [A7](#a7) | [異性友誼中的性吸引挑戰 ✅](#a7) | Halatsis & Christakis | 2009 | 兩用 |
+| [A8](#a8) | [異性友誼的四大挑戰](#a8) | O'Meara | 1989 | 兩用 |
+| [A9](#a9) | [異性戀女性與同志男性的友誼](#a9) | Russell 等 | 2013 | **正** |
+| [B1](#b1) | [愛情三角理論](#b1) | Sternberg | 1986 | **正** |
+| [B2](#b2) | [喜歡與愛的量表](#b2) | Rubin | 1970 | **正** |
+| [B3](#b3) | [成人依附與依附轉移](#b3) | Hazan & Shaver／Fraley & Davis | 1987／1997 | **正** |
+| [B4](#b4) | [情緒二因論／錯誤歸因](#b4) | Schachter & Singer／Dutton & Aron | 1962／1974 | 兩用 |
+| [B5](#b5) | [單純曝光效應／接近性](#b5) | Zajonc／Festinger 等 | 1968／1950 | 反 |
+| [B6](#b6) | [自我知覺理論](#b6) | Bem | 1967 | **正** |
+| [B7](#b7) | [認知失調](#b7) | Festinger | 1957 | 反 |
+| [B8](#b8) | [社會交換／投資模型](#b8) | Thibaut & Kelley／Rusbult | 1959／1980 | 兩用 |
+| [B9](#b9) | [社會滲透理論、36 問](#b9) | Altman & Taylor／Aron 等 | 1973／1997 | 反 |
+| [B10](#b10) | [精神分析：目標受抑制的愛](#b10) | Freud | 1921 | 反 |
+| [C1](#c1) | [性策略理論、親代投資](#c1) | Buss & Schmitt／Trivers | 1993／1972 | 反 |
+| [C2](#c2) | [錯誤管理理論](#c2) | Haselton & Buss | 2000 | 兩用 |
+| [C3](#c3) | [愛的三個腦系統](#c3) | Helen Fisher | 1998 | **正** |
+| [C4](#c4) | [魏斯特馬克效應（含台灣童養媳研究）](#c4) | Westermarck／Wolf | 1891／1995 | **正** |
+| [C5](#c5) | [無性戀盛行率](#c5) | Bogaert | 2004 | **正** |
+| [D1](#d1) | [純粹關係](#d1) | Giddens | 1992 | **正** |
+| [D2](#d2) | [湯瑪斯定理](#d2) | W. I. Thomas & D. S. Thomas | 1928 | **正** |
+| [D3](#d3) | [擬劇論](#d3) | Goffman | 1959 | 兩用 |
+| [D4](#d4) | [性腳本理論](#d4) | Gagnon & Simon | 1973 | **正** |
+| [D5](#d5) | [社會角色理論](#d5) | Eagly | 1987 | **正** |
+| [D6](#d6) | [同質性](#d6) | McPherson 等 | 2001 | 反 |
+| [D7](#d7) | [鄉土中國：男女有別](#d7) | 費孝通 | 1947 | 兩用 |
+| [D8](#d8) | [男女授受不親／權](#d8) | 孟子 | 戰國 | **正** |
+| [E1](#e1) | [三種友誼](#e1) | Aristotle | 約 350 BCE | **正** |
+| [E2](#e2) | [柏拉圖式愛情](#e2) | Plato／Ficino | 約 385 BCE／1469 | **正** |
+| [E3](#e3) | [四種愛](#e3) | C. S. Lewis | 1960 | 兩用 |
+| [E4](#e4) | [論友誼](#e4) | Montaigne | 1580 | 反（可被正方打） |
+| [E5](#e5) | [他心問題](#e5) | Mill | 1865 | 反 |
+| [E6](#e6) | [甲蟲盒子／私有語言論證](#e6) | Wittgenstein | 1953 | **正** |
+| [E7](#e7) | [邏輯行為主義](#e7) | Ryle | 1949 | **正** |
+| [E8](#e8) | [自然主義謬誤／實然與應然](#e8) | Hume／Moore | 1739／1903 | **正** |
+| [F1](#f1) | [可否證性（黑天鵝）](#f1) | Popper | 1934 | **正** |
+| [F2](#f2) | [操作型定義](#f2) | Bridgman | 1927 | **正** |
+| [F3](#f3) | [連鎖悖論、模糊邏輯](#f3) | Eubulides／Zadeh | 4 世紀 BCE／1965 | **正** |
+| [F4](#f4) | [言語行為理論](#f4) | Austin | 1962 | **正** |
+| [G1](#g1) | [資訊不對稱](#g1) | Akerlof | 1970 | 反 |
+| [G2](#g2) | [訊號理論](#g2) | Spence | 1973 | 反 |
 
 ---
 
 ## A. 異性友誼的直接實證研究
+
+<a id="a1"></a>
 
 ### A1. Benefit or Burden? Attraction in Cross-Sex Friendship ✅
 **Bleske-Rechek, Somers, Micke 等｜2012｜*Journal of Social and Personal Relationships*, 29(5)**
@@ -78,12 +80,16 @@
   2. 人們把吸引力當**負擔**，表示大家想要的是不含吸引的友誼，而且有意識地維持它。
   3. 這是平均值，不能推到每一段友誼（見 L1 生態謬誤）。
 
+<a id="a2"></a>
+
 ### A2. Can Men and Women Be Just Friends?
 **Bleske & Buss｜2000｜*Personal Relationships*, 7(2)**
 
 - **說明**：從演化觀點看，男性比女性更常把「性接近的可能」視為異性友誼的好處；女性較重視保護和資源。
 - 🛡️ **反方**：異性友誼可能是一種擇偶策略，一開始就不純。
 - ⚔️ **正方**：「視為好處」不等於「追求」。演化傾向解釋人**容易**怎樣，不決定一段關係**是**什麼（見 E8）。
+
+<a id="a3"></a>
 
 ### A3. "I Like You… as a Friend": The Role of Attraction in Cross-Sex Friendship ✅
 **Heidi Reeder｜2000｜*Journal of Social and Personal Relationships*, 17(3)**
@@ -93,6 +99,8 @@
 - 🛡️ **反方**：吸引會隨時間轉變，今天的友誼吸引，明天可能變成浪漫吸引。
 - ⚔️ **正方再反駁**：會轉變不代表此刻不純（見 P1 忒修斯之船、P2 傾向性質）。
 
+<a id="a4"></a>
+
 ### A4. Motives to Remain Platonic… in Opposite-Sex Friendships ✅
 **Messman, Canary & Hause｜2000｜*Journal of Social and Personal Relationships*, 17(1)**
 
@@ -101,6 +109,8 @@
 - 🛡️ **反方**：除了「沒有吸引」，其他五項都是**條件撐起來的純**（有伴侶、怕失去、別人反對），條件一變就不純。
 - ⚔️ **正方再反駁**：戀愛關係也靠承諾和條件維持，沒有人說婚姻因此「不是真的」。
 
+<a id="a5"></a>
+
 ### A5. Relational Maintenance in Cross-Sex Friendships Characterized by Different Types of Romantic Intent ✅
 **Guerrero & Chavez｜2005｜*Western Journal of Communication*, 69(4)**
 
@@ -108,6 +118,8 @@
 - ⚔️ **正方**：學術界把「strictly platonic」當成一個**真實可測量的類別**來研究。這四類等於一張雙方意圖的 2×2 表，「雙方都純」是其中獨立的一格。
 - 🛡️ **反方**：四格裡有三格不純。
 - ⚔️ **正方再反駁**：辯題問「存在」，不問比例。
+
+<a id="a6"></a>
 
 ### A6. On Being "Just Friends": The Frequency and Impact of Sexual Activity in Cross-Sex Friendships ✅
 **Afifi & Faulkner｜2000｜*Journal of Social and Personal Relationships*, 17(2)**
@@ -118,12 +130,16 @@
   1. 反過來看，另一半沒有越線。
   2. 越線後還能回到朋友，表示**友誼這個關係框架**是穩定存在的，不依附於「從未有過念頭」。
 
+<a id="a7"></a>
+
 ### A7. The Challenge of Sexual Attraction within Heterosexuals' Cross-Sex Friendship ✅
 **Halatsis & Christakis｜2009｜*Journal of Social and Personal Relationships*, 26(6–7)**
 
 - **說明**：以希臘受試者為對象，結合問卷和訪談。研究發現吸引可能在友誼的任何階段出現，許多人曾對異性朋友有性吸引（二手資料引述為 57.3%，原文未核對）。受訪者常以自我約定、不調情等方式「管理」吸引。
 - 🛡️ **反方**：過半的人都有過吸引。
 - ⚔️ **正方**：能「管理吸引」本身就說明，**有念頭但守住界線**的關係仍是友誼。
+
+<a id="a8"></a>
 
 ### A8. Cross-Sex Friendship: Four Basic Challenges of an Ignored Relationship
 **J. Donald O'Meara｜1989｜*Sex Roles*, 21**
@@ -137,6 +153,8 @@
 - 🛡️ **反方**：四個挑戰同時壓在一段關係上，長期維持很困難。
 - 💡 第四點「觀眾挑戰」很好用：很多人說「不存在」，其實是**外人不相信**，不是當事人做不到（延伸見 O3 標籤理論）。
 
+<a id="a9"></a>
+
 ### A9. Friends with Benefits, but without the Sex: Straight Women and Gay Men Exchange Trustworthy Mating Advice
 **Russell, DelPriore, Butterfield & Hill｜2013｜*Evolutionary Psychology*, 11(1)**
 
@@ -149,6 +167,8 @@
 
 ## B. 心理學理論
 
+<a id="b1"></a>
+
 ### B1. 愛情三角理論（Triangular Theory of Love）
 **Robert J. Sternberg｜1986｜*Psychological Review*, 93(2)**
 
@@ -157,11 +177,15 @@
 - 🛡️ **反方**：很要好的朋友會有親密加承諾，也就是「友伴之愛」，而它也是愛的一種。
 - 💡 「是否把對方放進長期人生規劃」對應的就是**承諾**成分，可以當友誼和戀愛的分界。
 
+<a id="b2"></a>
+
 ### B2. 喜歡與愛的量表（Liking and Loving Scales）
 **Zick Rubin｜1970｜*Journal of Personality and Social Psychology*, 16(2)**
 
 - **說明**：最早把「喜歡」（尊重、評價高、覺得相似）和「愛」（依附、照顧、親密獨佔）分成**兩個可分別測量的構念**。
 - ⚔️ **正方**：喜歡和愛在統計上是可區分的兩件事，很喜歡一個人不等於愛他。「覺得跟這個人相處很舒服」只代表喜歡分數高。
+
+<a id="b3"></a>
 
 ### B3. 成人依附理論與依附轉移
 **Hazan & Shaver｜1987｜*JPSP*, 52(3)**；**Fraley & Davis｜1997｜*Personal Relationships*, 4**（理論源頭：Bowlby, 1969）
@@ -170,12 +194,16 @@
 - ⚔️ **正方**：這提供了比「心動與否」更清楚的分界。對方是不是你的**主要依附對象**（第一個想找的人、安全基地），就是一條相對客觀的界線。
 - 🛡️ **反方**：有些人的主要依附對象就是異性好友，這時候和戀人有什麼差別？
 
+<a id="b4"></a>
+
 ### B4. 情緒二因論與激發錯誤歸因
 **Schachter & Singer｜1962｜*Psychological Review*, 69**；**Dutton & Aron｜1974｜*JPSP*, 30(4)**（吊橋實驗）
 
 - **說明**：情緒等於生理激發加上認知標籤。在吊橋上遇到異性的男性，較容易把心跳加速歸因為對對方心動。
 - 🛡️ **反方**：朋友一起經歷刺激的事（熬夜趕報告、出國旅行），很容易誤會成心動，所以友誼很容易變質。
 - ⚔️ **正方**：反過來說，**偶爾閃過的心動常常只是錯誤歸因**，不代表真的喜歡。
+
+<a id="b5"></a>
 
 ### B5. 單純曝光效應／接近性
 **Robert Zajonc｜1968｜*JPSP Monograph*, 9(2)**；**Festinger, Schachter & Back｜1950｜*Social Pressures in Informal Groups***
@@ -184,11 +212,15 @@
 - 🛡️ **反方**：朋友天天見面，好感只會累積，最後變質。
 - ⚔️ **正方**：曝光效應提升的是一般好感，不是特定的戀愛感；同性朋友也天天見面。
 
+<a id="b6"></a>
+
 ### B6. 自我知覺理論（Self-Perception Theory）
 **Daryl Bem｜1967｜*Psychological Review*, 74**
 
 - **說明**：人常常**從自己的行為推論自己的態度**。「我一直用朋友的方式對待他，所以我把他當朋友。」
 - ⚔️ **正方**：行為不只是情感的外顯，也會**回頭塑造情感**。守住朋友的互動，內心也會逐漸被定錨為友誼。
+
+<a id="b7"></a>
 
 ### B7. 認知失調理論
 **Leon Festinger｜1957｜*A Theory of Cognitive Dissonance***
@@ -197,6 +229,8 @@
 - 🛡️ **反方**：喜歡對方卻不敢說，就告訴自己「我們只是朋友」。所謂「純友誼」常常是失調後的自我說服。
 - ⚔️ **正方**：這個推論無法否證（見 F1），而且同一套說法可以套用在任何關係上。
 
+<a id="b8"></a>
+
 ### B8. 社會交換理論／投資模型
 **Thibaut & Kelley｜1959｜*The Social Psychology of Groups***；**Caryl Rusbult｜1980｜*Journal of Experimental Social Psychology*, 16**
 
@@ -204,12 +238,16 @@
 - 🛡️ **反方**：異性好友是戀人的「高品質替代選擇」，對伴侶關係是潛在威脅，所以很多人無法接受伴侶有異性好友。
 - ⚔️ **正方**：友誼本身就能提供足夠報酬（陪伴、支持、建議），不需要轉換成戀愛。友誼投資越多，越不會冒險毀掉它（對應 A4 的「保護關係」動機）。
 
+<a id="b9"></a>
+
 ### B9. 社會滲透理論與 36 問
 **Altman & Taylor｜1973｜*Social Penetration***；**Arthur Aron 等｜1997｜*Personality and Social Psychology Bulletin*, 23(4)**
 
 - **說明**：自我揭露的廣度和深度增加，關係就會加深。Aron 用 36 個漸進式問題，在實驗室裡快速製造親密感。
 - 🛡️ **反方**：友誼越深、揭露越多，就越接近戀愛的親密程度，界線會被侵蝕。
 - ⚔️ **正方**：Aron 的實驗產生的是**親密感（closeness）**，不等於戀愛。同性受試者配對也能產生同樣的親密感。
+
+<a id="b10"></a>
 
 ### B10. 精神分析：目標受抑制的愛（Aim-inhibited love）
 **Sigmund Freud｜1921｜*Group Psychology and the Analysis of the Ego***
@@ -222,12 +260,16 @@
 
 ## C. 演化、生物與神經科學
 
+<a id="c1"></a>
+
 ### C1. 性策略理論／親代投資理論
 **Buss & Schmitt｜1993｜*Psychological Review*, 100(2)**；**Robert Trivers｜1972｜*Parental Investment and Sexual Selection***
 
 - **說明**：兩性的繁殖成本不同，男性演化出較強的短期擇偶傾向，女性較挑剔。
 - 🛡️ **反方**：男性面對異性時，擇偶模組會自動啟動，生物上很難「純」。
 - ⚔️ **正方**：**演化是傾向，不是命運**（見 E8）。人類也演化出前額葉和自制力。友誼本身也有獨立於擇偶的演化功能（見 N2）。
+
+<a id="c2"></a>
 
 ### C2. 錯誤管理理論（Error Management Theory）
 **Haselton & Buss｜2000｜*JPSP*, 78(1)**
@@ -236,12 +278,16 @@
 - 🛡️ **反方**：男性天生傾向把友善解讀成好感，所以容易越線。
 - ⚔️ **正方**：這正好解釋 A1 的發現：**男性「以為」對方有意思，常常是感知偏誤，不是事實**。被高估的那一方其實是純的，偏誤不等於不純。
 
+<a id="c3"></a>
+
 ### C3. 愛的三個腦系統（Lust, Attraction, Attachment）
 **Helen Fisher｜1998｜*Human Nature*, 9(1)**
 
 - **說明**：性慾（lust）、浪漫吸引（attraction）、依附（attachment）由**不同的神經化學系統**主導（睪固酮／雌激素、多巴胺、催產素／血管加壓素），可以獨立運作。
 - ⚔️ **正方**：在大腦裡，**依附可以不伴隨性慾和浪漫吸引**，所以「很深的友誼但沒有戀愛」有神經基礎。
 - 🛡️ **反方**：三個系統會互相觸發，例如長期依附可能啟動浪漫吸引。
+
+<a id="c4"></a>
 
 ### C4. 魏斯特馬克效應（Westermarck Effect）
 **Edvard Westermarck｜1891｜*The History of Human Marriage***；實證：**Arthur Wolf｜1995｜*Sexual Attraction and Childhood Association: A Chinese Brief for Edward Westermarck***；**Joseph Shepher｜1971｜*Archives of Sexual Behavior*, 1(4)**（以色列基布茲）
@@ -250,6 +296,8 @@
 - ⚔️ **正方**：人類大腦裡**存在一個會自動關掉異性吸引的機制**，所以「親密但無性吸引的男女關係」在生物上是可能的。台灣本土案例，評審會買單。
 - 🛡️ **反方**：只適用於童年同住，一般朋友不適用。
 - ⚔️ **正方再反駁**：它不需要適用於所有人，只要證明「男女親密但無性吸引」在生物上可能，存在就成立。
+
+<a id="c5"></a>
 
 ### C5. 無性戀的盛行率
 **Anthony Bogaert｜2004｜*Journal of Sex Research*, 41(3)**
@@ -262,17 +310,23 @@
 
 ## D. 社會學、傳播學、華人文化
 
+<a id="d1"></a>
+
 ### D1. 純粹關係（Pure Relationship）
 **Anthony Giddens｜1992｜*The Transformation of Intimacy***
 
 - **說明**：現代親密關係逐漸變成「**純粹關係**」：為了關係本身而建立，不靠外在制度（婚姻、家族、經濟），只要雙方都從中得到滿足就持續下去。
 - ⚔️ **正方（定義戰神器）**：社會學裡的「純」，指**關係為了自身而存在、由雙方自願維持**，不是「沒有任何念頭」。依此標準，純友誼完全存在。
 
+<a id="d2"></a>
+
 ### D2. 湯瑪斯定理（Thomas Theorem）
 **W. I. Thomas & Dorothy Swaine Thomas｜1928｜*The Child in America***
 
 - **說明**：「如果人們把一個情境定義為真實的，它在後果上就是真實的。」
 - ⚔️ **正方**：雙方都把關係定義為友誼，並照友誼的方式互動，那它在社會後果上就是友誼。
+
+<a id="d3"></a>
 
 ### D3. 擬劇論（Dramaturgy）
 **Erving Goffman｜1959｜*The Presentation of Self in Everyday Life***
@@ -281,17 +335,23 @@
 - 🛡️ **反方**：「純友誼」可能只是前台的表演，後台怎樣沒人知道。
 - ⚔️ **正方**：Goffman 認為**所有**關係都有前台和後台，戀人和家人也是。用這套否定異性友誼，等於也否定所有關係的真實性。
 
+<a id="d4"></a>
+
 ### D4. 性腳本理論（Sexual Script Theory）
 **Gagnon & Simon｜1973｜*Sexual Conduct***
 
 - **說明**：人們對性和親密的理解，來自文化提供的「腳本」，不是純粹的本能。
 - ⚔️ **正方**：「男女之間不可能有純友誼」本身就是一個**文化腳本**，例如電影《當哈利遇上莎莉》（1989）那句「性總會擋在中間」。腳本會隨時代改變，不是自然定律。
 
+<a id="d5"></a>
+
 ### D5. 社會角色理論（Social Role Theory）
 **Alice Eagly｜1987｜*Sex Differences in Social Behavior: A Social-Role Interpretation***
 
 - **說明**：很多性別差異來自社會分工的角色，而不是天性。
 - ⚔️ **正方**：過去男女分工、分場域，接觸機會少，異性互動只剩求偶情境。現在男女同校、同職場，共同興趣和合作增加，異性友誼的社會基礎越來越強。
+
+<a id="d6"></a>
 
 ### D6. 同質性（Homophily）
 **McPherson, Smith-Lovin & Cook｜2001｜*Annual Review of Sociology*, 27**（"Birds of a Feather"）
@@ -300,12 +360,16 @@
 - 🛡️ **反方**：異性友誼本來就少，成立的又常常帶有吸引的動機。
 - ⚔️ **正方**：**少不等於不存在**。
 
+<a id="d7"></a>
+
 ### D7. 《鄉土中國》：男女有別
 **費孝通｜1947｜《鄉土中國》〈男女有別〉**
 
 - **說明**：傳統鄉土社會刻意讓男女在情感上保持距離，以避免情感衝動擾亂穩定的社會秩序（家族事業）。
 - 🛡️ **反方**：連社會結構都要刻意隔離男女，說明男女之間的情感很容易越界。
 - ⚔️ **正方**：這種隔離是**特定社會結構的產物**，不是人性必然。鄉土社會解體後，這個前提已經不成立。
+
+<a id="d8"></a>
 
 ### D8. 男女授受不親／權
 **孟子｜戰國時期｜《孟子·離婁上》**
@@ -317,6 +381,8 @@
 
 ## E. 哲學
 
+<a id="e1"></a>
+
 ### E1. 三種友誼
 **Aristotle｜約 350 BCE｜*Nicomachean Ethics*，第 VIII–IX 卷**
 
@@ -324,11 +390,15 @@
 - ⚔️ **正方**：亞里斯多德對「純」的判準是**為了對方好**，不是有沒有吸引。異性之間當然可以有德性之友。
 - 🛡️ **反方**：有吸引的友誼可能只是「快樂之友」，不是最高級的那種。
 
+<a id="e2"></a>
+
 ### E2. 柏拉圖式愛情（Platonic Love）
 **Plato｜約 385–370 BCE｜*Symposium***；**Marsilio Ficino｜1469｜*De Amore*（首創 *amor platonicus* 一詞）**
 
 - **說明**：《會飲篇》中，愛從對身體的愛逐步上升到對靈魂、對美本身的愛。「柏拉圖式」原意是**昇華了肉體慾望的愛**。
 - ⚔️ **正方（冷知識殺招）**：「柏拉圖式」的原意**不是沒有愛，而是不以肉體為目的的愛**。也就是說，「心裡有喜歡，但不越線」在詞源上就是最標準的柏拉圖式關係。
+
+<a id="e3"></a>
 
 ### E3. 四種愛
 **C. S. Lewis｜1960｜*The Four Loves***
@@ -337,12 +407,16 @@
 - ⚔️ **正方**：用**關注的方向**區分友誼和戀愛：朋友一起看向第三件事，戀人看向彼此。這是一條可以觀察的界線。
 - 🛡️ **反方**：Lewis 自己都說男女友誼容易轉變成情愛。
 
+<a id="e4"></a>
+
 ### E4. 論友誼
 **Michel de Montaigne｜1580｜*Essais*，〈De l'amitié〉**
 
 - **說明**：Montaigne 認為女性的心靈不足以承擔完美友誼的交流，男女之間的關係容易摻雜身體的慾望。
 - 🛡️ **反方**：哲學傳統長期認為男女之間難有純粹友誼。
 - ⚔️ **正方**：他的前提是「女性能力不足」，這個前提今天已經被推翻。可以拿來展示「不存在論」的歷史根源是性別偏見（延伸見 P7 Derrida）。
+
+<a id="e5"></a>
 
 ### E5. 他心問題（Problem of Other Minds）
 **John Stuart Mill｜1865｜*An Examination of Sir William Hamilton's Philosophy***（類比論證）
@@ -351,17 +425,23 @@
 - 🛡️ **反方**：你永遠無法確認對方心裡是純的。
 - ⚔️ **正方**：照這個標準，任何關係都無法確認（你怎麼知道你的戀人真的愛你？）。而且**無法驗證不等於不存在**（見 F1）。
 
+<a id="e6"></a>
+
 ### E6. 甲蟲盒子／私有語言論證
 **Ludwig Wittgenstein｜1953｜*Philosophical Investigations*，§243–§315（甲蟲盒子在 §293）**
 
 - **說明**：每個人的盒子裡都有一隻「甲蟲」，但沒人看得到別人的。Wittgenstein 認為，盒子裡的東西對語言的意義沒有作用，**詞彙的意義在公共使用中確立**。
 - ⚔️ **正方**：「友誼」這個詞的意義由公共可觀察的實踐決定，不是由每個人心裡的私有感受決定。所以判定是不是友誼，看的是**互動方式**。
 
+<a id="e7"></a>
+
 ### E7. 邏輯行為主義
 **Gilbert Ryle｜1949｜*The Concept of Mind***
 
 - **說明**：Ryle 批判「機器中的幽靈」，主張心理狀態就是**以某種方式行為的傾向**，不是藏在背後的神秘實體。
 - ⚔️ **正方**：「是朋友」就是「傾向以朋友的方式對待對方」。內心偶爾的念頭不改變這個傾向。
+
+<a id="e8"></a>
 
 ### E8. 自然主義謬誤／實然與應然
 **David Hume｜1739｜*A Treatise of Human Nature***；**G. E. Moore｜1903｜*Principia Ethica***
@@ -373,6 +453,8 @@
 
 ## F. 邏輯、方法論、語言學
 
+<a id="f1"></a>
+
 ### F1. 可否證性（黑天鵝）
 **Karl Popper｜1934（德文 *Logik der Forschung*）／1959（英譯 *The Logic of Scientific Discovery*）**
 
@@ -380,11 +462,15 @@
 - ⚔️ **正方（舉證責任）**：反方主張「不存在」是全稱否定命題，正方只要**一個例子**。另外，如果反方說「表面純的都是藏得好」，這個主張**無論如何都無法被推翻**，按 Popper 的標準就不是有效論證。
 - 🛡️ **反方反制**：見 L4 羅素的茶壺。
 
+<a id="f2"></a>
+
 ### F2. 操作型定義（Operationalism）
 **Percy Bridgman｜1927｜*The Logic of Modern Physics***（1946 年諾貝爾物理獎得主）
 
 - **說明**：一個概念的意義，等於測量它的那組操作。
 - ⚔️ **正方**：科學處理模糊概念的標準做法，就是把它定義成**可觀察的行為**：沒有親密接觸、沒有曖昧互動、沒有排他承諾。用這個方式定義「純友誼」，它就可以被觀察和檢驗。
+
+<a id="f3"></a>
 
 ### F3. 連鎖悖論（Sorites Paradox）／模糊邏輯（Fuzzy Logic）
 **Eubulides of Miletus｜西元前 4 世紀**；**Lotfi Zadeh｜1965｜"Fuzzy Sets", *Information and Control*, 8**
@@ -393,6 +479,8 @@
 - ⚔️ **正方**：
   1. **界線模糊不代表兩端不存在**：曖昧地帶存在，不影響明確的純友誼存在。
   2. 偶爾閃過的好感是低隸屬度的模糊值。每個人把它判成「喜歡」的閾值不同，但不影響隸屬度接近 0 的友誼存在。
+
+<a id="f4"></a>
 
 ### F4. 言語行為理論（Speech Act Theory）
 **J. L. Austin｜1962｜*How to Do Things with Words***（延伸：John Searle, 1969, *Speech Acts*）
@@ -404,12 +492,16 @@
 
 ## G. 經濟學與賽局
 
+<a id="g1"></a>
+
 ### G1. 資訊不對稱（The Market for "Lemons"）
 **George Akerlof｜1970｜*Quarterly Journal of Economics*, 84(3)**
 
 - **說明**：交易一方擁有對方不知道的資訊時，市場會出現逆選擇，好的商品被壞的驅逐。
 - 🛡️ **反方**：友誼中一方有隱藏的感情，就是資訊不對稱，另一方以為的「純」建立在不完全資訊上。一旦隱藏的感情曝光、互動跟著改變，就說明之前的「純」只是資訊不對稱。
 - ⚔️ **正方**：關係的定義不需要完全資訊。所有人際關係都存在資訊不對稱，戀人之間也有。
+
+<a id="g2"></a>
 
 ### G2. 訊號理論（Signaling Theory）
 **Michael Spence｜1973｜*Quarterly Journal of Economics*, 87(3)**
@@ -428,48 +520,50 @@
 
 | # | 理論 | 作者 | 年份 | 領域 | 主要站方 |
 |---|---|---|---|---|---|
-| K1 | Rice 定理 | Henry G. Rice | 1953 | 計算理論 | 兩用 |
-| K2 | 兩將軍問題 | Akkoyunlu 等／Gray | 1975／1978 | 分散式系統 | 反 |
-| K3 | 鴨子型別、里氏替換原則 | Liskov | 1987 | 程式設計 | **正** |
-| K4 | 圖靈測試 vs 中文房間 | Turing／Searle | 1950／1980 | AI 哲學 | 兩用 |
-| K5 | 馬可夫鏈與吸收態 | Markov | 1906 | 機率論 | 兩用 |
-| L1 | 生態謬誤 | W. S. Robinson | 1950 | 統計 | **正** |
-| L2 | 倖存者偏差 | Abraham Wald | 1943 | 統計 | **正** |
-| L3 | 可得性捷思 | Tversky & Kahneman | 1973 | 認知心理 | **正** |
-| L4 | 羅素的茶壺、構造性證明 | Russell／Brouwer | 1952／1907 | 哲學、數學 | 反 |
-| L5 | 奧坎剃刀 | William of Ockham | 14 世紀 | 方法論 | **正** |
-| L6 | 訊號偵測論 | Green & Swets | 1966 | 心理物理學 | 兩用 |
-| L7 | 基本歸因謬誤、錯誤共識效應 | Ross 等 | 1977 | 社會認知 | **正** |
-| M1 | 活化能與介穩態 | Arrhenius | 1889 | 化學 | 兩用 |
-| M2 | 負回饋與恆定 | Cannon／Wiener | 1932／1948 | 生理學、控制論 | **正** |
-| M3 | 霍桑效應／觀察者效應 | Mayo／Landsberger | 1924–32／1958 | 管理學 | **正** |
-| M4 | 薛丁格的貓 | Schrödinger | 1935 | 物理 | **正**（反用） |
-| N1 | 狒狒的異性友誼 | Barbara Smuts | 1985 | 靈長類學 | 兩用 |
-| N2 | 友誼的聯盟假說、銀行家悖論 | DeScioli & Kurzban／Tooby & Cosmides | 2009／1996 | 演化心理 | **正** |
-| O1 | 潔淨與危險 | Mary Douglas | 1966 | 人類學 | **正** |
-| O2 | 閾限 | Van Gennep／Victor Turner | 1909／1969 | 人類學 | 兩用 |
-| O3 | 標籤理論、自我實現預言 | Becker／Merton | 1963／1948 | 社會學 | **正** |
-| O4 | 調情是一種遊戲形式 | Georg Simmel | 1909 | 社會學 | 兩用 |
-| O5 | 關係模型理論、間接言語與共同知識 | Fiske／Pinker 等 | 1992／2008 | 人類學、語言心理 | 兩用 |
-| O6 | 結構平衡理論 | Fritz Heider | 1946 | 社會心理、圖論 | 反 |
-| P1 | 忒修斯之船、四維論 | Plutarch／Sider | 約 75／2001 | 形上學 | **正** |
-| P2 | 傾向性質（易碎的玻璃） | Nelson Goodman | 1955 | 形上學 | **正** |
-| P3 | 自制 vs 節制 | Aristotle | 約 350 BCE | 倫理學 | 兩用 |
-| P4 | 自欺（壞信念） | Sartre | 1943 | 存在主義 | 兩用 |
-| P5 | 道德運氣 | Williams／Nagel | 1976 | 倫理學 | 兩用 |
-| P6 | 哲學殭屍 | Chalmers | 1996 | 心靈哲學 | 反 |
-| P7 | 友誼的政治 | Derrida | 1994 | 解構主義 | **正** |
-| Q1 | 顯示性偏好 | Samuelson | 1938 | 經濟學 | **正** |
-| Q2 | 實質選擇權 | Dixit & Pindyck | 1994 | 財務經濟 | 反 |
-| Q3 | 穩定配對、阻擋配對 | Gale & Shapley | 1962 | 賽局、市場設計 | 兩用 |
-| R1 | 思想不受處罰 | Ulpian | 約 3 世紀 | 羅馬法 | **正** |
-| R2 | 無罪推定、Blackstone 比例 | Blackstone | 1769 | 英美法 | **正** |
-| R3 | 「逾越一般社交分際」判準 ✅ | 台灣法院實務 | — | 台灣民法 | **正** |
-| S1 | 原型理論 | Eleanor Rosch | 1975 | 認知語言學 | **正** |
+| [K1](#k1) | [Rice 定理](#k1) | Henry G. Rice | 1953 | 計算理論 | 兩用 |
+| [K2](#k2) | [兩將軍問題](#k2) | Akkoyunlu 等／Gray | 1975／1978 | 分散式系統 | 反 |
+| [K3](#k3) | [鴨子型別、里氏替換原則](#k3) | Liskov | 1987 | 程式設計 | **正** |
+| [K4](#k4) | [圖靈測試 vs 中文房間](#k4) | Turing／Searle | 1950／1980 | AI 哲學 | 兩用 |
+| [K5](#k5) | [馬可夫鏈與吸收態](#k5) | Markov | 1906 | 機率論 | 兩用 |
+| [L1](#l1) | [生態謬誤](#l1) | W. S. Robinson | 1950 | 統計 | **正** |
+| [L2](#l2) | [倖存者偏差](#l2) | Abraham Wald | 1943 | 統計 | **正** |
+| [L3](#l3) | [可得性捷思](#l3) | Tversky & Kahneman | 1973 | 認知心理 | **正** |
+| [L4](#l4) | [羅素的茶壺、構造性證明](#l4) | Russell／Brouwer | 1952／1907 | 哲學、數學 | 反 |
+| [L5](#l5) | [奧坎剃刀](#l5) | William of Ockham | 14 世紀 | 方法論 | **正** |
+| [L6](#l6) | [訊號偵測論](#l6) | Green & Swets | 1966 | 心理物理學 | 兩用 |
+| [L7](#l7) | [基本歸因謬誤、錯誤共識效應](#l7) | Ross 等 | 1977 | 社會認知 | **正** |
+| [M1](#m1) | [活化能與介穩態](#m1) | Arrhenius | 1889 | 化學 | 兩用 |
+| [M2](#m2) | [負回饋與恆定](#m2) | Cannon／Wiener | 1932／1948 | 生理學、控制論 | **正** |
+| [M3](#m3) | [霍桑效應／觀察者效應](#m3) | Mayo／Landsberger | 1924–32／1958 | 管理學 | **正** |
+| [M4](#m4) | [薛丁格的貓](#m4) | Schrödinger | 1935 | 物理 | **正**（反用） |
+| [N1](#n1) | [狒狒的異性友誼](#n1) | Barbara Smuts | 1985 | 靈長類學 | 兩用 |
+| [N2](#n2) | [友誼的聯盟假說、銀行家悖論](#n2) | DeScioli & Kurzban／Tooby & Cosmides | 2009／1996 | 演化心理 | **正** |
+| [O1](#o1) | [潔淨與危險](#o1) | Mary Douglas | 1966 | 人類學 | **正** |
+| [O2](#o2) | [閾限](#o2) | Van Gennep／Victor Turner | 1909／1969 | 人類學 | 兩用 |
+| [O3](#o3) | [標籤理論、自我實現預言](#o3) | Becker／Merton | 1963／1948 | 社會學 | **正** |
+| [O4](#o4) | [調情是一種遊戲形式](#o4) | Georg Simmel | 1909 | 社會學 | 兩用 |
+| [O5](#o5) | [關係模型理論、間接言語與共同知識](#o5) | Fiske／Pinker 等 | 1992／2008 | 人類學、語言心理 | 兩用 |
+| [O6](#o6) | [結構平衡理論](#o6) | Fritz Heider | 1946 | 社會心理、圖論 | 反 |
+| [P1](#p1) | [忒修斯之船、四維論](#p1) | Plutarch／Sider | 約 75／2001 | 形上學 | **正** |
+| [P2](#p2) | [傾向性質（易碎的玻璃）](#p2) | Nelson Goodman | 1955 | 形上學 | **正** |
+| [P3](#p3) | [自制 vs 節制](#p3) | Aristotle | 約 350 BCE | 倫理學 | 兩用 |
+| [P4](#p4) | [自欺（壞信念）](#p4) | Sartre | 1943 | 存在主義 | 兩用 |
+| [P5](#p5) | [道德運氣](#p5) | Williams／Nagel | 1976 | 倫理學 | 兩用 |
+| [P6](#p6) | [哲學殭屍](#p6) | Chalmers | 1996 | 心靈哲學 | 反 |
+| [P7](#p7) | [友誼的政治](#p7) | Derrida | 1994 | 解構主義 | **正** |
+| [Q1](#q1) | [顯示性偏好](#q1) | Samuelson | 1938 | 經濟學 | **正** |
+| [Q2](#q2) | [實質選擇權](#q2) | Dixit & Pindyck | 1994 | 財務經濟 | 反 |
+| [Q3](#q3) | [穩定配對、阻擋配對](#q3) | Gale & Shapley | 1962 | 賽局、市場設計 | 兩用 |
+| [R1](#r1) | [思想不受處罰](#r1) | Ulpian | 約 3 世紀 | 羅馬法 | **正** |
+| [R2](#r2) | [無罪推定、Blackstone 比例](#r2) | Blackstone | 1769 | 英美法 | **正** |
+| [R3](#r3) | [「逾越一般社交分際」判準 ✅](#r3) | 台灣法院實務 | — | 台灣民法 | **正** |
+| [S1](#s1) | [原型理論](#s1) | Eleanor Rosch | 1975 | 認知語言學 | **正** |
 
 ---
 
 ## K. 資訊科學與計算理論
+
+<a id="k1"></a>
 
 ### K1. Rice 定理（Rice's Theorem）
 **Henry Gordon Rice｜1953｜*Transactions of the American Mathematical Society*, 74**
@@ -481,6 +575,8 @@
   1. 軟體工程因此發展出**黑箱測試**：不看內部，用可觀察的輸入輸出判斷程式是否符合規格。關係也可以這樣判定。
   2. 「沒有**通用**判定法」不等於「**個別案例**無法判定」。很多特定程式能被證明會停機，很多特定友誼也能被確認是純的。
 
+<a id="k2"></a>
+
 ### K2. 兩將軍問題（Two Generals' Problem）
 **Akkoyunlu, Ekanadham & Huber｜1975**；**Jim Gray 命名｜1978**
 
@@ -488,6 +584,8 @@
 - 🔗 **類比橋樑**：兩人要達成「我們都把這段當友誼」的共識。「你也只把我當朋友吧？」「對啊，你也是吧？」……每一次確認都還能被懷疑。
 - 🛡️ **反方**：雙方永遠無法確定彼此的認知一致，所以「雙向純友誼」無法成立。
 - ⚔️ **正方**：網路協定（TCP）也無法百分之百確認，但網路每天正常運作，因為工程上只需要**足夠可靠**。戀人之間也無法百分之百確認對方的愛，反方的標準會讓所有關係都不存在。
+
+<a id="k3"></a>
 
 ### K3. 鴨子型別與里氏替換原則（Duck Typing／Liskov Substitution Principle）
 **Barbara Liskov｜1987｜OOPSLA 主題演講 "Data Abstraction and Hierarchy"**（形式化：Liskov & Wing, 1994）
@@ -497,6 +595,8 @@
 - ⚔️ **正方**：一個異性朋友完整實作了「朋友」介面，把他換成同性朋友，什麼都不會壞掉，那他就是朋友。性別不是型別判定的一部分。
 - 🛡️ **反方**：里氏替換原則還要求**不能有額外的副作用**。如果這段友誼讓雙方伴侶吃醋，就是副作用，替換失敗。
 
+<a id="k4"></a>
+
 ### K4. 圖靈測試 vs 中文房間
 **Alan Turing｜1950｜"Computing Machinery and Intelligence", *Mind*, 59**；**John Searle｜1980｜"Minds, Brains, and Programs", *Behavioral and Brain Sciences*, 3**
 
@@ -504,6 +604,8 @@
 - 🔗 **類比橋樑**：把異性朋友的聊天紀錄和同性朋友的混在一起，讓第三方盲測。
 - ⚔️ **正方（圖靈派）**：如果第三方分不出哪段是異性友誼，那它在行為上就是友誼，沒有理由另眼看待。
 - 🛡️ **反方（Searle 派）**：行為像朋友，不代表內心是朋友。
+
+<a id="k5"></a>
 
 ### K5. 馬可夫鏈與吸收態（Markov Chain／Absorbing State）
 **Andrey Markov｜1906**
@@ -520,12 +622,16 @@
 
 ## L. 統計、方法論與認知偏誤
 
+<a id="l1"></a>
+
 ### L1. 生態謬誤（Ecological Fallacy）
 **W. S. Robinson｜1950｜*American Sociological Review*, 15(3)**
 
 - **說明**：用群體層次的統計結果，推論個體的性質，是一種謬誤。
 - 🔗 **類比橋樑**：「男性**平均**比較容易被異性朋友吸引」是群體層次的發現。
 - ⚔️ **正方（拆 A1／A2 的專用工具）**：平均值推不出「每一個男性」，更推不出「每一段友誼」。辯題問的是存在，只需要個體層次的反例。
+
+<a id="l2"></a>
 
 ### L2. 倖存者偏差（Survivorship Bias）
 **Abraham Wald｜1943｜二戰美軍統計研究小組備忘錄**
@@ -534,11 +640,15 @@
 - 🔗 **類比橋樑**：「從朋友變戀人」會留下故事，被拿出來講；一直平平淡淡的純友誼不會被講。
 - ⚔️ **正方**：我們聽到的異性友誼案例，大多是「變質」的那些，因為只有它們會留下故事。這是樣本偏差，不是事實。
 
+<a id="l3"></a>
+
 ### L3. 可得性捷思（Availability Heuristic）
 **Amos Tversky & Daniel Kahneman｜1973｜*Cognitive Psychology*, 5(2)**
 
 - **說明**：人用「容易想起的例子」估計事件的頻率。戲劇化、情緒化的事件更容易被想起，所以會被高估。
 - ⚔️ **正方**：偶像劇、電影、八卦裡的異性好友幾乎都會在一起，讓「友誼終將變質」顯得很常見。人們高估的是**容易想起的劇情**，不是真實的頻率。
+
+<a id="l4"></a>
 
 ### L4. 羅素的茶壺／構造性證明
 **Bertrand Russell｜1952｜〈Is There a God?〉**；**L. E. J. Brouwer｜1907｜直覺主義數學（博士論文）**
@@ -547,11 +657,15 @@
 - 🛡️ **反方（反制 Popper）**：主張「存在」的一方才有舉證責任。正方不能只說「你證明不了它不存在」，必須拿出實例。
 - ⚔️ **正方應對**：這反而提醒正方**準備好構造性的例子**：A5 的 strictly platonic 類別、A9 的同志男與異性戀女、C4 的魏斯特馬克效應。有例子，舉證責任就完成了。
 
+<a id="l5"></a>
+
 ### L5. 奧坎剃刀（Occam's Razor）
 **William of Ockham｜14 世紀**
 
 - **說明**：如無必要，勿增實體。能用簡單假設解釋的，不需要複雜的假設。
 - ⚔️ **正方**：兩人互動完全像朋友，最簡單的解釋是「他們是朋友」。「其實雙方都有隱藏的情愫，只是都藏得很好」需要額外假設，而且沒有證據。
+
+<a id="l6"></a>
 
 ### L6. 訊號偵測論（Signal Detection Theory）
 **David Green & John Swets｜1966｜*Signal Detection Theory and Psychophysics***
@@ -560,6 +674,8 @@
 - 🔗 **類比橋樑**：「我是不是喜歡他？」「他是不是對我有意思？」都是在雜訊（日常好感、相處愉快）裡偵測訊號（戀愛）。
 - ⚔️ **正方**：同一段關係，有人判定「有曖昧」、有人判定「純友誼」，往往只是**判斷標準不同**，不是關係本身不存在。
 - 🛡️ **反方**：如果標準因人而異，「純」就變成主觀的。
+
+<a id="l7"></a>
 
 ### L7. 基本歸因謬誤／錯誤共識效應
 **Lee Ross｜1977｜*Advances in Experimental Social Psychology*, 10**；**Ross, Greene & House｜1977｜*Journal of Experimental Social Psychology*, 13**
@@ -573,6 +689,8 @@
 
 ## M. 物理、化學與系統科學
 
+<a id="m1"></a>
+
 ### M1. 活化能與介穩態（Activation Energy／Metastability）
 **Svante Arrhenius｜1889**
 
@@ -581,6 +699,8 @@
 - 🛡️ **反方**：友誼只是暫時的介穩態，遲早會滑向戀愛。
 - ⚔️ **正方**：介穩態不是假的穩定，鑽石就是證據。守住界線、不調情，就是在**提高活化能**。至於酒精、深夜長談、一起旅行，則是降低活化能的**催化劑**，這也解釋了友誼在哪些情況下最容易變質。
 
+<a id="m2"></a>
+
 ### M2. 負回饋與恆定（Negative Feedback／Homeostasis）
 **Walter Cannon｜1932｜*The Wisdom of the Body***；**Norbert Wiener｜1948｜*Cybernetics***
 
@@ -588,11 +708,15 @@
 - 🔗 **類比橋樑**：友誼裡偶爾出現好感、曖昧的瞬間，就像體溫的小波動。
 - ⚔️ **正方**：「純友誼」不是「從來沒有干擾」，而是「有干擾也會被拉回來」。用「有沒有閃過念頭」來判斷，就像因為體溫曾經升到 37.3°C，就說人不是恆溫動物。
 
+<a id="m3"></a>
+
 ### M3. 霍桑效應／觀察者效應
 **Elton Mayo 等｜1924–1932 霍桑工廠實驗**；**Henry Landsberger 命名｜1958**
 
 - **說明**：工人知道自己被觀察時，行為就會改變。觀察本身會影響被觀察的對象。
 - ⚔️ **正方**：很多異性友誼的「變質」，起點是**外人的追問**：「你們是不是在一起？」「你是不是喜歡他？」被問多了，當事人才開始懷疑。不純有時是被**觀察者製造**出來的（延伸見 O3）。
+
+<a id="m4"></a>
 
 ### M4. 薛丁格的貓（Schrödinger's Cat）
 **Erwin Schrödinger｜1935｜*Naturwissenschaften*, 23**
@@ -606,6 +730,8 @@
 
 ## N. 動物行為與演化（間接）
 
+<a id="n1"></a>
+
 ### N1. 狒狒的異性友誼
 **Barbara Smuts｜1985｜*Sex and Friendship in Baboons*** ✅
 
@@ -615,6 +741,8 @@
   1. 異性之間的「友誼」在演化上**早於人類就存在**，不是現代人的發明。
   2. 這些友誼有**獨立於交配的功能**（保護、照顧幼崽），後續研究也有人認為狒狒的友誼和交配關係不大。
 - 💡 這是兩用的牌，引用時要說清楚「研究也發現和交配有關」，否則容易被反方抓到。
+
+<a id="n2"></a>
 
 ### N2. 友誼的聯盟假說／銀行家悖論
 **DeScioli & Kurzban｜2009｜"The Alliance Hypothesis for Human Friendship", *PLoS ONE*, 4(6)**；**Tooby & Cosmides｜1996｜"Friendship and the Banker's Paradox", *Proceedings of the British Academy*, 88**
@@ -626,12 +754,16 @@
 
 ## O. 社會學與人類學
 
+<a id="o1"></a>
+
 ### O1. 潔淨與危險（Purity and Danger）
 **Mary Douglas｜1966｜*Purity and Danger***
 
 - **說明**：Douglas 認為「髒」就是「**放錯地方的東西**」。鞋子本身不髒，放在餐桌上就髒了。「不潔」來自違反分類系統的東西。
 - 🔗 **類比橋樑**：這個理論直接處理辯題裡的「**純**」字。社會的分類是「同性 = 朋友，異性 = 戀人候選」。
 - ⚔️ **正方（王牌）**：異性友誼被覺得「不純」，是因為它**放錯了分類格子**，讓人不安，而不是關係本身摻了什麼東西。「不純」是**分類系統的焦慮**，不是關係的屬性。
+
+<a id="o2"></a>
 
 ### O2. 閾限（Liminality）
 **Arnold van Gennep｜1909｜*Les Rites de Passage***；**Victor Turner｜1969｜*The Ritual Process***
@@ -641,11 +773,15 @@
 - 🛡️ **反方**：異性友誼本質上是過渡狀態，終究要整合成「戀人」或退回「普通朋友」。
 - ⚔️ **正方**：後來的社會學者（如 Szakolczai, 2000）提出「**永久閾限**」，有些中間狀態可以長期穩定存在。而且「友達以上」這個詞的存在，也說明了純友誼（「以下」的那一側）是被清楚認知的類別。
 
+<a id="o3"></a>
+
 ### O3. 標籤理論與自我實現預言
 **Howard Becker｜1963｜*Outsiders***；**Robert K. Merton｜1948｜"The Self-Fulfilling Prophecy", *Antioch Review*, 8**
 
 - **說明**：標籤理論認為，「偏差」是被他人貼上的標籤，而不是行為本身的性質。自我實現預言是指，一個錯誤的預期，會引發使它成真的行為。
 - ⚔️ **正方**：「男女之間不可能有純友誼」這個信念本身，會**製造**不純：旁人起鬨、伴侶吃醋、當事人開始自我懷疑，最後友誼真的變質或疏遠。這不是證明友誼不可能，而是證明**偏見會自我實現**。
+
+<a id="o4"></a>
 
 ### O4. 調情是一種遊戲形式（Coquetry as Play-Form）
 **Georg Simmel｜1909｜〈Psychologie der Koketterie〉**（收錄於 1911 年《Philosophische Kultur》）
@@ -654,6 +790,8 @@
 - ⚔️ **正方**：朋友之間的打鬧、互虧、看起來曖昧的玩笑，可以只是**遊戲**，不代表真的有意圖。
 - 🛡️ **反方**：Simmel 也說調情的形式仍然是**情慾的**。就算是遊戲，玩的也是情慾遊戲。
 
+<a id="o5"></a>
+
 ### O5. 關係模型理論、間接言語與共同知識
 **Alan Fiske｜1992｜"The Four Elementary Forms of Sociality", *Psychological Review*, 99(4)**；**Pinker, Nowak & Lee｜2008｜"The Logic of Indirect Speech", *PNAS*, 105(3)**
 
@@ -661,6 +799,8 @@
 - 🔗 **類比橋樑**：「我喜歡你」說出口的瞬間，關係就變了，即使在那之前內心早就喜歡。
 - ⚔️ **正方**：關係的類型是在**共同知識層次**決定的，不是由私人念頭決定。只要雙方的共同認知是「朋友」，關係就是友誼。
 - 🛡️ **反方**：人們刻意保留「可否認的曖昧」，說明很多友誼其實是**安全的試探場**。
+
+<a id="o6"></a>
 
 ### O6. 結構平衡理論（Balance Theory）
 **Fritz Heider｜1946｜"Attitudes and Cognitive Organization", *Journal of Psychology*, 21**（圖論形式化：Cartwright & Harary, 1956）
@@ -674,6 +814,8 @@
 
 ## P. 哲學延伸
 
+<a id="p1"></a>
+
 ### P1. 忒修斯之船與四維論
 **Plutarch｜約 75 CE｜《希臘羅馬名人傳·忒修斯傳》**；**Theodore Sider｜2001｜*Four-Dimensionalism***
 
@@ -682,12 +824,16 @@
 - ⚔️ **正方**：一段關係有**時間切片**。後來變成戀愛，不會回溯污染之前的友誼切片。「三年純友誼加一年戀愛」裡，那三年仍然是純友誼。
 - 🛡️ **反方**：如果是一片一片漸漸換掉的，你說不出是從哪一片開始變的，那也許從來就沒有清楚的「純」。
 
+<a id="p2"></a>
+
 ### P2. 傾向性質（Dispositional Properties）
 **Nelson Goodman｜1955｜*Fact, Fiction, and Forecast***
 
 - **說明**：「易碎」是一種傾向性質：玻璃杯即使從來沒碎過，也是易碎的。但「易碎」和「已碎」是兩回事。
 - 🔗 **類比橋樑**：反方常說「條件一變，這段友誼就會變質」。
 - ⚔️ **正方**：「**可能**變成戀愛」是傾向，「**是**戀愛」是實現。一個易碎的杯子，只要沒碎，就是完整的杯子。人也有「可能生氣」的傾向，但不會因此被說成「一直在生氣」。
+
+<a id="p3"></a>
 
 ### P3. 自制 vs 節制（Enkrateia vs Sōphrosynē）
 **Aristotle｜約 350 BCE｜*Nicomachean Ethics*，第 VII 卷（自制）、第 II 卷（德性由習慣養成）**
@@ -699,12 +845,16 @@
   1. 亞里斯多德仍然**肯定自制是值得讚許的**，它不是惡。
   2. 第 II 卷說德性**由習慣養成**：持續的自制會逐漸變成節制。所以克制本身就是通往純粹的路徑。
 
+<a id="p4"></a>
+
 ### P4. 自欺（Bad Faith, *mauvaise foi*）
 **Jean-Paul Sartre｜1943｜*L'Être et le néant*（《存在與虛無》）**
 
 - **說明**：Sartre 舉過一個例子：一位女士和男士約會，男士握住她的手，她讓手留在那裡，卻假裝沒注意到，繼續談論高深的話題。她在逃避做出選擇，這就是自欺。
 - 🛡️ **反方**：很多「我們只是朋友」就是這位女士：享受曖昧，卻拒絕承認，用「純友誼」當藉口。
 - ⚔️ **正方**：Sartre 批評的是**拒絕做選擇**。清楚地選擇友誼、劃出界線並為此負責，正是自欺的**反面**，也就是「本真」（authenticity）。
+
+<a id="p5"></a>
 
 ### P5. 道德運氣（Moral Luck）
 **Bernard Williams｜1976**；**Thomas Nagel｜1976**（兩人在亞里斯多德學會的同名論文）
@@ -713,12 +863,16 @@
 - 🛡️ **反方**：很多純友誼只是**運氣好**：剛好沒有天時地利，沒有被考驗過。
 - ⚔️ **正方**：這適用於所有道德評價。我們仍然說沒被誘惑過的誠實人是誠實的。「沒被考驗過」和「不存在」是兩回事。
 
+<a id="p6"></a>
+
 ### P6. 哲學殭屍（Philosophical Zombie）
 **David Chalmers｜1996｜*The Conscious Mind***
 
 - **說明**：想像一個和你在行為上完全一樣、但沒有任何內在意識經驗的存在。如果這可以想像，那行為就不能完全決定心靈。
 - 🛡️ **反方（攻擊行為判準）**：兩段行為完全一樣的友誼，一段雙方無心，一段有人默默喜歡著。行為判準無法區分它們，所以它判斷不了「純」。
 - ⚔️ **正方**：這是思想實驗，不是現實的判準。現實中所有關係的判斷都基於行為；如果必須讀到內心才能判斷，那戀愛也無法判斷。
+
+<a id="p7"></a>
 
 ### P7. 友誼的政治（Politiques de l'amitié）
 **Jacques Derrida｜1994｜*Politiques de l'amitié***（英譯 1997）
@@ -730,11 +884,15 @@
 
 ## Q. 經濟學延伸
 
+<a id="q1"></a>
+
 ### Q1. 顯示性偏好（Revealed Preference）
 **Paul Samuelson｜1938｜*Economica*, 5(17)**
 
 - **說明**：經濟學不問人「心裡喜歡什麼」，而是看他**實際選了什麼**，從選擇推論偏好。
 - ⚔️ **正方**：判斷一段關係，看雙方**實際的選擇**：交往了誰、把誰放進人生規劃、在關鍵時刻選擇了什麼。如果兩人持續選擇維持朋友關係，顯示出的偏好就是友誼。這是經濟學版的行為判準。
+
+<a id="q2"></a>
 
 ### Q2. 實質選擇權（Real Options）
 **Avinash Dixit & Robert Pindyck｜1994｜*Investment under Uncertainty***
@@ -742,6 +900,8 @@
 - **說明**：在不確定的環境中，「保留未來選擇的權利」本身就有價值，有時候延後決定比立刻決定更好。
 - 🛡️ **反方**：異性友誼就像持有一張「戀愛的買權」：不表白、不放棄，只是保留選擇權，等待時機。這是**避險策略**，不是純友誼。
 - ⚔️ **正方**：持有選擇權不等於會行使它。而且人和同學、同事、所有認識的人之間都「保留著可能性」；照這個邏輯，任何人際關係都不純。
+
+<a id="q3"></a>
 
 ### Q3. 穩定配對與阻擋配對（Stable Matching／Blocking Pair）
 **David Gale & Lloyd Shapley｜1962｜"College Admissions and the Stability of Marriage", *American Mathematical Monthly*, 69**（Shapley 獲 2012 年諾貝爾經濟學獎）
@@ -755,6 +915,8 @@
 
 ## R. 法律
 
+<a id="r1"></a>
+
 ### R1. 思想不受處罰（*Cogitationis poenam nemo patitur*）
 **Ulpian｜約 3 世紀｜收錄於《學說彙纂》（*Digest*）48.19.18**
 
@@ -762,11 +924,15 @@
 - ⚔️ **正方**：連法律這種最講究判斷標準的制度，都以**行為**而不是念頭來定性。用一閃而過的念頭判定友誼「不純」，標準比刑法還嚴苛。
 - 🛡️ **反方**：刑法也要求**犯意（mens rea）**，同一個行為，意圖不同，罪名就不同（殺人 vs 過失致死）。所以內心意圖還是決定性質的關鍵。
 
+<a id="r2"></a>
+
 ### R2. 無罪推定與 Blackstone 比例
 **William Blackstone｜1769｜*Commentaries on the Laws of England*，第 4 卷**
 
 - **說明**：「寧可讓十個有罪的人逃脫，也不讓一個無辜的人受苦。」在沒有證據之前，推定被告無罪。
 - ⚔️ **正方**：在沒有越線證據時，應推定這段友誼是純的。反方的論證方式是「**有罪推定**」：因為無法證明內心純潔，就推定它不純。
+
+<a id="r3"></a>
 
 ### R3. 台灣法院的「逾越一般社交分際」判準 ✅
 **台灣民事法院實務｜依據：民法第 184 條第 1 項、第 195 條第 3 項（侵害配偶身分法益）**
@@ -779,6 +945,8 @@
 ---
 
 ## S. 語言學
+
+<a id="s1"></a>
 
 ### S1. 原型理論（Prototype Theory）
 **Eleanor Rosch｜1975｜"Cognitive Representations of Semantic Categories", *Journal of Experimental Psychology: General*, 104(3)**
